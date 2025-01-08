@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+payment-lambda-layer.zip
 # C extensions
 *.so
 
@@ -36,6 +36,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+python/
 # Unit test / coverage reports
 htmlcov/
 .tox/
